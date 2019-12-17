@@ -25,3 +25,47 @@ http://89.45.201.132:2222/udp/224.0.0.3:908
 http://89.45.201.132:2222/udp/224.0.0.3:909
 #EXTINF:-1,Dolce Sport 5 HD
 http://89.45.201.132:2222/udp/224.0.0.3:900
+#EXTINF:-1,Animal Planet
+http://85.186.97.54:9981/stream/channelid/161
+#EXTINF:-1,Animal Planet HD
+http://85.186.97.54:9981/stream/channelid/101
+#EXTINF:-1,DIGI Sport 1
+http://85.186.97.54:9981/stream/channelid/116
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://85.186.97.54:9981/stream/channelid/89
+#EXTINF:-1,DIGI Sport 2
+http://85.186.97.54:9981/stream/channelid/540
+#EXTINF:-1,DIGI Sport 2 HD RO
+http://85.186.97.54:9981/stream/channelid/90
+#EXTINF:-1,DIGI Sport 3
+http://85.186.97.54:9981/stream/channelid/122
+#EXTINF:-1,DIGI Sport 4
+http://85.186.97.54:9981/stream/channelid/534
+#EXTINF:-1,DIGI World
+http://85.186.97.54:9981/stream/channelid/363
+#EXTINF:-1,DTX
+http://85.186.97.54:9981/stream/channelid/170
+#EXTINF:-1,Digi Sport 1 HD
+http://85.186.97.54:9981/stream/channelid/205
+#EXTINF:-1,Digi Sport 3 HD
+http://85.186.97.54:9981/stream/channelid/206
+#EXTINF:-1,Discovery Channel
+http://85.186.97.54:9981/stream/channelid/238
+#EXTINF:-1,Discovery Channel
+http://85.186.97.54:9981/stream/channelid/426
+#EXTINF:-1,Discovery RO
+http://85.186.97.54:9981/stream/channelid/554
+#EXTINF:-1,FILM NOW
+http://85.186.97.54:9981/stream/channelid/115
+#EXTINF:-1,HBO 2
+http://85.186.97.54:9981/stream/channelid/56
+#EXTINF:-1,HBO 3 RO
+http://85.186.97.54:9981/stream/channelid/539
+#EXTINF:-1,HBO HD
+http://85.186.97.54:9981/stream/channelid/209
+#EXTINF:-1,HBO HD RO
+http://85.186.97.54:9981/stream/channelid/83
+#EXTINF:-1,HBO Romania
+http://85.186.97.54:9981/stream/channelid/130
+#EXTINF:-1,HBO2
+http://85.186.97.54:9981/stream/channelid/162
