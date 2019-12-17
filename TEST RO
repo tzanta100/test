@@ -1,71 +1,14 @@
-#EXTM3U
-#EXTINF:0 tvg-name="Prime" tvg-language="Romanian" tvg-country="RO" tvg-id="Prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEYKb1BJNDZk6gHDHlgonyP_QgkGo41dP4pFzs6fzoIvQBrsT25uwlEc" group-title="News",Prime (News) (RO) (Romanian)
-http://87.248.160.8/edge/smil:prime/playlist.m3u8
-#EXTINF:-1,TV
-http://89.45.201.132:2222/udp/224.0.0.3:518
-#EXTINF:-1,1
-http://89.45.201.132:2222/udp/224.0.0.3:514
-#EXTINF:-1,HBO
-http://89.45.201.132:2222/udp/224.0.0.3:511
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:901
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:902
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:903
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:904
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:906
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:909
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:908
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:909
-#EXTINF:-1,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:900
-#EXTINF:-1,Animal Planet
-http://85.186.97.54:9981/stream/channelid/161
-#EXTINF:-1,Animal Planet HD
-http://85.186.97.54:9981/stream/channelid/101
-#EXTINF:-1,DIGI Sport 1
-http://85.186.97.54:9981/stream/channelid/116
-#EXTINF:-1,DIGI Sport 1 HD RO
-http://85.186.97.54:9981/stream/channelid/89
-#EXTINF:-1,DIGI Sport 2
-http://85.186.97.54:9981/stream/channelid/540
-#EXTINF:-1,DIGI Sport 2 HD RO
-http://85.186.97.54:9981/stream/channelid/90
-#EXTINF:-1,DIGI Sport 3
-http://85.186.97.54:9981/stream/channelid/122
-#EXTINF:-1,DIGI Sport 4
-http://85.186.97.54:9981/stream/channelid/534
-#EXTINF:-1,DIGI World
-http://85.186.97.54:9981/stream/channelid/363
-#EXTINF:-1,DTX
-http://85.186.97.54:9981/stream/channelid/170
-#EXTINF:-1,Digi Sport 1 HD
-http://85.186.97.54:9981/stream/channelid/205
-#EXTINF:-1,Digi Sport 3 HD
-http://85.186.97.54:9981/stream/channelid/206
-#EXTINF:-1,Discovery Channel
-http://85.186.97.54:9981/stream/channelid/238
-#EXTINF:-1,Discovery Channel
-http://85.186.97.54:9981/stream/channelid/426
-#EXTINF:-1,Discovery RO
-http://85.186.97.54:9981/stream/channelid/554
-#EXTINF:-1,FILM NOW
-http://85.186.97.54:9981/stream/channelid/115
-#EXTINF:-1,HBO 2
-http://85.186.97.54:9981/stream/channelid/56
-#EXTINF:-1,HBO 3 RO
-http://85.186.97.54:9981/stream/channelid/539
-#EXTINF:-1,HBO HD
-http://85.186.97.54:9981/stream/channelid/209
-#EXTINF:-1,HBO HD RO
-http://85.186.97.54:9981/stream/channelid/83
-#EXTINF:-1,HBO Romania
-http://85.186.97.54:9981/stream/channelid/130
-#EXTINF:-1,HBO2
-http://85.186.97.54:9981/stream/channelid/162
+#EXTINF:-1, British Sports HD
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:-1, British Sports2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:-1, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:-1, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1, Cartoon Network
+http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
