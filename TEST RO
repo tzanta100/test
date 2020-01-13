@@ -1,3 +1,202 @@
+
+
 #EXTM3U
-#EXTINF:-1Digi1
-http://vsvnad.com:8000/live/Gabriela/Gabriela/33797.ts
+#EXTINF:-1,RO:  Antena 1 Hd
+http://195.181.160.180:8000/live/9ItcASrYM1/SeF
+#EXTINF:-1,RO:  Pro tv
+http://2.telek.me:8080/2330/6548/b2cd00fa66eba6139f
+#EXTINF:-1,RO: Filmnow 
+http://pan.darksite.tv:8000/7pnTOex5K0/ruoNyIkF3U/14762
+#EXTINF:-1,RO: 
+http://turkiptv.xyz:8080/live/user24/12345/100447.ts
+#EXTINF:-1,RO: AMC Romania
+http://turkiptv.xyz:8080/live/user24/12345/100462.ts
+#EXTINF:-1,RO: Animal Planet
+http://turkiptv.xyz:8080/live/user24/12345/100512.ts
+#EXTINF:-1,RO: Antena 1
+http://turkiptv.xyz:8080/live/user24/12345/100451.ts
+#EXTINF:-1,RO: Antena 1 FHD
+http://turkiptv.xyz:8080/live/user24/12345/100450.ts
+#EXTINF:-1,RO: ANTENA 3
+http://turkiptv.xyz:8080/live/user24/12345/100445.ts
+#EXTINF:-1,RO: Antena 3 FHD
+http://turkiptv.xyz:8080/live/user24/12345/100444.ts
+#EXTINF:-1,RO: Antena Stars
+http://turkiptv.xyz:8080/live/user24/12345/100446.ts
+#EXTINF:-1,RO: ANX FHD
+http://turkiptv.xyz:8080/live/user24/12345/100548.ts
+#EXTINF:-1,RO: Arcadia World FHD
+http://turkiptv.xyz:8080/live/user24/12345/100549.ts
+#EXTINF:-1,RO: AXN Black
+http://turkiptv.xyz:8080/live/user24/12345/100513.ts
+#EXTINF:-1,RO: AXN HD
+http://turkiptv.xyz:8080/live/user24/12345/100463.ts
+#EXTINF:-1,RO: AXN Spin
+http://turkiptv.xyz:8080/live/user24/12345/100550.ts
+#EXTINF:-1,RO: AXN WHITE
+http://turkiptv.xyz:8080/live/user24/12345/100464.ts
+#EXTINF:-1,RO: B1
+http://turkiptv.xyz:8080/live/user24/12345/100515.ts
+#EXTINF:-1,RO: BIT TV
+http://turkiptv.xyz:8080/live/user24/12345/100551.ts
+#EXTINF:-1,RO: Bollywood Clasic
+http://turkiptv.xyz:8080/live/user24/12345/100552.ts
+#EXTINF:-1,RO: Bollywood HD
+http://turkiptv.xyz:8080/live/user24/12345/100553.ts
+#EXTINF:-1,RO: Boomerang
+http://turkiptv.xyz:8080/live/user24/12345/100520.ts
+#EXTINF:-1,RO: Bucovina TV
+http://turkiptv.xyz:8080/live/user24/12345/100554.ts
+#EXTINF:-1,RO: Bucuresti TV FHD
+http://turkiptv.xyz:8080/live/user24/12345/100555.ts
+#EXTINF:-1,RO: Canal 33
+http://turkiptv.xyz:8080/live/user24/12345/100556.ts
+#EXTINF:-1,RO: CBS Reality
+http://turkiptv.xyz:8080/live/user24/12345/100557.ts
+#EXTINF:-1,RO: Cinemax 2
+http://turkiptv.xyz:8080/live/user24/12345/100507.ts
+#EXTINF:-1,RO: Cinemax HD
+http://turkiptv.xyz:8080/live/user24/12345/100506.ts
+#EXTINF:-1,RO: Cinethronix
+http://turkiptv.xyz:8080/live/user24/12345/100558.ts
+#EXTINF:-1,RO: Comedy Central
+http://turkiptv.xyz:8080/live/user24/12345/100516.ts
+#EXTINF:-1,RO: Credo Tv
+http://turkiptv.xyz:8080/live/user24/12345/100559.ts
+#EXTINF:-1,RO: Crime Investigation
+http://turkiptv.xyz:8080/live/user24/12345/100560.ts
+#EXTINF:-1,RO: Cromtel TV HD
+http://turkiptv.xyz:8080/live/user24/12345/100561.ts
+#EXTINF:-1,RO: Cromtel TV Radauti
+http://turkiptv.xyz:8080/live/user24/12345/100562.ts
+#EXTINF:-1,RO: Da Vinci Learning
+http://turkiptv.xyz:8080/live/user24/12345/100476.ts
+#EXTINF:-1,RO: Diaspora TV FHD
+http://turkiptv.xyz:8080/live/user24/12345/100563.ts
+#EXTINF:-1,RO: Digi 24
+http://turkiptv.xyz:8080/live/user24/12345/100473.ts
+#EXTINF:-1,RO: Digi Animal World
+http://turkiptv.xyz:8080/live/user24/12345/100474.ts
+#EXTINF:-1,RO: Digi Animal World FHD
+http://turkiptv.xyz:8080/live/user24/12345/100564.ts
+#EXTINF:-1,RO: DIGI FILIM HD
+http://turkiptv.xyz:8080/live/user24/12345/100470.ts
+#EXTINF:-1,RO: Digi Life
+http://turkiptv.xyz:8080/live/user24/12345/100472.ts
+#EXTINF:-1,RO: Digi Sport 1
+http://turkiptv.xyz:8080/live/user24/12345/100532.ts
+#EXTINF:-1,RO: DIGI Sport 1 HD
+http://turkiptv.xyz:8080/live/user24/12345/100528.ts
+#EXTINF:-1,RO: Digi Sport 2
+http://turkiptv.xyz:8080/live/user24/12345/100533.ts
+#EXTINF:-1,RO: DIGI Sport 2 HD
+http://turkiptv.xyz:8080/live/user24/12345/100529.ts
+#EXTINF:-1,RO: Digi Sport 3
+http://turkiptv.xyz:8080/live/user24/12345/100534.ts
+#EXTINF:-1,RO: DIGI Sport 3 HD
+http://turkiptv.xyz:8080/live/user24/12345/100530.ts
+#EXTINF:-1,RO: Digi Sport 4
+http://turkiptv.xyz:8080/live/user24/12345/100535.ts
+#EXTINF:-1,RO: DIGI Sport 4 HD
+http://turkiptv.xyz:8080/live/user24/12345/100531.ts
+#EXTINF:-1,RO: Digi World
+http://turkiptv.xyz:8080/live/user24/12345/100471.ts
+#EXTINF:-1,RO: Discovery
+http://turkiptv.xyz:8080/live/user24/12345/100477.ts
+#EXTINF:-1,RO: Discovery HD Showcase
+http://turkiptv.xyz:8080/live/user24/12345/100565.ts
+#EXTINF:-1,RO: Discovery ID
+http://turkiptv.xyz:8080/live/user24/12345/100478.ts
+#EXTINF:-1,RO: Discovery Science
+http://turkiptv.xyz:8080/live/user24/12345/100479.ts
+#EXTINF:-1,RO: Discovery Turbo Xtra HD
+http://turkiptv.xyz:8080/live/user24/12345/100566.ts
+#EXTINF:-1,RO: Disney Channel
+http://turkiptv.xyz:8080/live/user24/12345/100517.ts
+#EXTINF:-1,RO: Disney Junior
+http://turkiptv.xyz:8080/live/user24/12345/100522.ts
+#EXTINF:-1,RO: Diva
+http://turkiptv.xyz:8080/live/user24/12345/100518.ts
+#EXTINF:-1,RO: DocuBox
+http://turkiptv.xyz:8080/live/user24/12345/100567.ts
+#EXTINF:-1,RO: DTX HD
+http://turkiptv.xyz:8080/live/user24/12345/100509.ts
+#EXTINF:-1,RO: Duck TV
+http://turkiptv.xyz:8080/live/user24/12345/100568.ts
+#EXTINF:-1,RO: E! Entertainment HD
+http://turkiptv.xyz:8080/live/user24/12345/100514.ts
+#EXTINF:-1,RO: Epic Drama FHD
+http://turkiptv.xyz:8080/live/user24/12345/100569.ts
+#EXTINF:-1,RO: Etno TV
+http://turkiptv.xyz:8080/live/user24/12345/100456.ts
+#EXTINF:-1,RO: EuroAL TV
+http://turkiptv.xyz:8080/live/user24/12345/100570.ts
+#EXTINF:-1,RO: Eurosport
+http://turkiptv.xyz:8080/live/user24/12345/100524.ts
+#EXTINF:-1,RO: Eurosport 1 HD
+http://turkiptv.xyz:8080/live/user24/12345/100525.ts
+#EXTINF:-1,RO: Eurosport 2
+http://turkiptv.xyz:8080/live/user24/12345/100527.ts
+#EXTINF:-1,RO: Extreme Sport
+http://turkiptv.xyz:8080/live/user24/12345/100526.ts
+#EXTINF:-1,RO: FAVORIT TV
+http://turkiptv.xyz:8080/live/user24/12345/100491.ts
+#EXTINF:-1,RO: FightBox
+http://turkiptv.xyz:8080/live/user24/12345/100571.ts
+#EXTINF:-1,RO: Film Cafe
+http://turkiptv.xyz:8080/live/user24/12345/100492.ts
+#EXTINF:-1,RO: Film Now FHD
+http://turkiptv.xyz:8080/live/user24/12345/100572.ts
+#EXTINF:-1,RO: FilmBox Extra FHD
+http://turkiptv.xyz:8080/live/user24/12345/100574.ts
+#EXTINF:-1,RO: FilmBox Family
+http://turkiptv.xyz:8080/live/user24/12345/100575.ts
+#EXTINF:-1,RO: FilmBox Plus
+http://turkiptv.xyz:8080/live/user24/12345/100576.ts
+#EXTINF:-1,RO: Filmbox Premium
+http://turkiptv.xyz:8080/live/user24/12345/100577.ts
+#EXTINF:-1,RO: Fine Living FHD
+http://turkiptv.xyz:8080/live/user24/12345/100578.ts
+#EXTINF:-1,RO: Fishing & Hunting
+http://turkiptv.xyz:8080/live/user24/12345/100579.ts
+#EXTINF:-1,RO: Fishing and Hunting
+http://turkiptv.xyz:8080/live/user24/12345/100493.ts
+#EXTINF:-1,RO: Food Network HD
+http://turkiptv.xyz:8080/live/user24/12345/100480.ts
+#EXTINF:-1,RO: Happy Channel
+http://turkiptv.xyz:8080/live/user24/12345/100486.ts
+#EXTINF:-1,RO: Happy Channel FHD
+http://turkiptv.xyz:8080/live/user24/12345/100580.ts
+#EXTINF:-1,RO: HBO 2
+http://turkiptv.xyz:8080/live/user24/12345/100466.ts
+#EXTINF:-1,RO: HBO 3
+http://turkiptv.xyz:8080/live/user24/12345/100467.ts
+#EXTINF:-1,RO: HBO 3 Central Europe
+http://turkiptv.xyz:8080/live/user24/12345/100468.ts
+#EXTINF:-1,RO: HBO Romania
+http://turkiptv.xyz:8080/live/user24/12345/100465.ts
+#EXTINF:-1,RO: HISTORY CHANNEL
+http://turkiptv.xyz:8080/live/user24/12345/100490.ts
+#EXTINF:-1,RO: HIT MUSIC
+http://turkiptv.xyz:8080/live/user24/12345/100541.ts
+#EXTINF:-1,RO: Hora TV
+http://turkiptv.xyz:8080/live/user24/12345/100542.ts
+#EXTINF:-1,RO: Iasi Tv Life
+http://turkiptv.xyz:8080/live/user24/12345/100581.ts
+#EXTINF:-1,RO: Inedit TV
+http://turkiptv.xyz:8080/live/user24/12345/100582.ts
+#EXTINF:-1,RO: Infinit TV
+http://turkiptv.xyz:8080/live/user24/12345/100583.ts
+#EXTINF:-1,RO: Intermedia Suceava
+http://turkiptv.xyz:8080/live/user24/12345/100584.ts
+#EXTINF:-1,RO: JimJam
+http://turkiptv.xyz:8080/live/user24/12345/100519.ts
+#EXTINF:-1,RO: Kanal D HD
+http://turkiptv.xyz:8080/live/user24/12345/100449.ts
+#EXTINF:-1,RO: KISS TV
+http://turkiptv.xyz:8080/live/user24/12345/100540.ts
+#EXTINF:-1,RO: Look Plus
+http://turkiptv.xyz:8080/live/user24/12345/100485.ts
+#EXTINF:-1,RO: Look Tv
+http://turkiptv.xyz:8080/live/user24/12345/100487.ts
+#E
