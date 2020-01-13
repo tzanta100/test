@@ -1,251 +1,289 @@
 #EXTM3U
-#EXTINF:-1,AKTA Info
-http://94.177.150.45:9700/play/a00f/index.m3u8
-#EXTINF:-1,AMC
-http://94.177.150.45:9700/play/a011/index.m3u8
-#EXTINF:-1,AXN
-http://94.177.150.45:9700/play/a00x/index.m3u8
-#EXTINF:-1,AXN Black
-http://94.177.150.45:9700/play/a00z/index.m3u8
-#EXTINF:-1,AXN White
-http://94.177.150.45:9700/play/a00y/index.m3u8
-#EXTINF:-1,Agro TV
-http://94.177.150.45:9700/play/a02n/index.m3u8
-#EXTINF:-1,Alfa Omega TV
-http://94.177.150.45:9700/play/a02c/index.m3u8
-#EXTINF:-1,Antena 1
-http://94.177.150.45:9700/play/a003/index.m3u8
-#EXTINF:-1,Antena 1 HD
-http://94.177.150.45:9700/play/a02t/index.m3u8
-#EXTINF:-1,Antena 3
-http://94.177.150.45:9700/play/a00g/index.m3u8
-#EXTINF:-1,Antena 3 HD
-http://94.177.150.45:9700/play/a02w/index.m3u8
-#EXTINF:-1,Antena Stars HD
-http://94.177.150.45:9700/play/a03m/index.m3u8
-#EXTINF:-1,Arcadia World
-http://94.177.150.45:9700/play/a01g/index.m3u8
-#EXTINF:-1,Arcadia World HD
-http://94.177.150.45:9700/play/a03r/index.m3u8
-#EXTINF:-1,Auto Motor Sport
-http://94.177.150.45:9700/play/a02l/index.m3u8
-#EXTINF:-1,B1 TV
-http://94.177.150.45:9700/play/a009/index.m3u8
-#EXTINF:-1,BBC Earth
-http://94.177.150.45:9700/play/a019/index.m3u8
-#EXTINF:-1,BBC Earth HD
-http://94.177.150.45:9700/play/a039/index.m3u8
-#EXTINF:-1,Bollywood Clasic
-http://94.177.150.45:9700/play/a02o/index.m3u8
-#EXTINF:-1,Boomerang TV
-http://94.177.150.45:9700/play/a01s/index.m3u8
-#EXTINF:-1,Bucuresti TV
-http://94.177.150.45:9700/play/a00n/index.m3u8
-#EXTINF:-1,CBS Reality
-http://94.177.150.45:9700/play/a01i/index.m3u8
-#EXTINF:-1,CNN International
-http://94.177.150.45:9700/play/a00l/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://94.177.150.45:9700/play/a01p/index.m3u8
-#EXTINF:-1,Cinemaraton
-http://94.177.150.45:9700/play/a00o/index.m3u8
-#EXTINF:-1,Cinemaraton HD
-http://94.177.150.45:9700/play/a02z/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://94.177.150.45:9700/play/a033/index.m3u8
-#EXTINF:-1,Cinethronix
-http://94.177.150.45:9700/play/a01n/index.m3u8
-#EXTINF:-1,Credo TV
-http://94.177.150.45:9700/play/a02e/index.m3u8
-#EXTINF:-1,Crime and Investigation
-http://94.177.150.45:9700/play/a01j/index.m3u8
-#EXTINF:-1,Da Vinci
-http://94.177.150.45:9700/play/a01e/index.m3u8
-#EXTINF:-1,Deutsche Welle
-http://94.177.150.45:9700/play/a03v/index.m3u8
-#EXTINF:-1,Digi 24
-http://94.177.150.45:9700/play/a00k/index.m3u8
-#EXTINF:-1,Digi 24 HD
-http://94.177.150.45:9700/play/a02x/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://94.177.150.45:9700/play/a01d/index.m3u8
-#EXTINF:-1,Diva
-http://94.177.150.45:9700/play/a00u/index.m3u8
-#EXTINF:-1,DocuBox
-http://94.177.150.45:9700/play/a01a/index.m3u8
-#EXTINF:-1,DocuBox HD
-http://94.177.150.45:9700/play/a03d/index.m3u8
-#EXTINF:-1,Duck TV
-http://94.177.150.45:9700/play/a01r/index.m3u8
-#EXTINF:-1,Epic Drama
-http://94.177.150.45:9700/play/a012/index.m3u8
-#EXTINF:-1,Epic Drama HD
-http://94.177.150.45:9700/play/a036/index.m3u8
-#EXTINF:-1,Etno TV
-http://94.177.150.45:9700/play/a025/index.m3u8
-#EXTINF:-1,Eurosport
-http://94.177.150.45:9700/play/a02p/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://94.177.150.45:9700/play/a02q/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://94.177.150.45:9700/play/a03o/index.m3u8
-#EXTINF:-1,Eurosport HD
-http://94.177.150.45:9700/play/a03n/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://94.177.150.45:9700/play/a02m/index.m3u8
-#EXTINF:-1,Favorit TV
-http://94.177.150.45:9700/play/a026/index.m3u8
-#EXTINF:-1,Film Cafe
-http://94.177.150.45:9700/play/a00p/index.m3u8
-#EXTINF:-1,Filmbox Extra HD
-http://94.177.150.45:9700/play/a034/index.m3u8
-#EXTINF:-1,HBO HD
-http://94.177.150.45:9700/play/a031/index.m3u8
+http://134.255.54.217:9000/stream/channelid/1428308753
+#EXTINF:-1,Cinemax 2 HD
+http://134.255.54.217:9000/stream/channelid/1524091977
 #EXTINF:-1,HBO2 HD
-http://94.177.150.45:9700/play/a030/index.m3u8
+http://134.255.54.217:9000/stream/channelid/1102808541
 #EXTINF:-1,HBO3 HD
-http://94.177.150.45:9700/play/a032/index.m3u8
-#EXTINF:-1,History
-http://94.177.150.45:9700/play/a01b/index.m3u8
-#EXTINF:-1,History HD
-http://94.177.150.45:9700/play/a03a/index.m3u8
-#EXTINF:-1,Hit Music Channel
-http://94.177.150.45:9700/play/a022/index.m3u8
-#EXTINF:-1,Inedit TV
-http://94.177.150.45:9700/play/a028/index.m3u8
-#EXTINF:-1,Investigation Discovery
-http://94.177.150.45:9700/play/a01f/index.m3u8
-#EXTINF:-1,Investigation Discovery HD
-http://94.177.150.45:9700/play/a03e/index.m3u8
-#EXTINF:-1,JimJam
-http://94.177.150.45:9700/play/a01v/index.m3u8
-#EXTINF:-1,Kanal D
-http://94.177.150.45:9700/play/a004/index.m3u8
-#EXTINF:-1,Kanal D HD
-http://94.177.150.45:9700/play/a02v/index.m3u8
-#EXTINF:-1,Kapital TV
-http://94.177.150.45:9700/play/a01o/index.m3u8
-#EXTINF:-1,Kiss TV
-http://94.177.150.45:9700/play/a01x/index.m3u8
-#EXTINF:-1,Look Plus
-http://94.177.150.45:9700/play/a02j/index.m3u8
-#EXTINF:-1,Look Plus HD
-http://94.177.150.45:9700/play/a03j/index.m3u8
-#EXTINF:-1,Look Sport
-http://94.177.150.45:9700/play/a02i/index.m3u8
-#EXTINF:-1,Look Sport HD
-http://94.177.150.45:9700/play/a03h/index.m3u8
-#EXTINF:-1,Magic TV
-http://94.177.150.45:9700/play/a024/index.m3u8
-#EXTINF:-1,Magic TV HD
-http://94.177.150.45:9700/play/a03f/index.m3u8
-#EXTINF:-1,Medika TV
-http://94.177.150.45:9700/play/a018/index.m3u8
-#EXTINF:-1,Minimax
-http://94.177.150.45:9700/play/a01t/index.m3u8
-#EXTINF:-1,Music Channel
-http://94.177.150.45:9700/play/a01w/index.m3u8
-#EXTINF:-1,Nasul TV
-http://94.177.150.45:9700/play/a00a/index.m3u8
-#EXTINF:-1,National 24 Plus
-http://94.177.150.45:9700/play/a00j/index.m3u8
-#EXTINF:-1,National TV
-http://94.177.150.45:9700/play/a007/index.m3u8
-#EXTINF:-1,Neptun TV
-http://94.177.150.45:9700/play/a00b/index.m3u8
-#EXTINF:-1,Nick Jr
-http://94.177.150.45:9700/play/a01q/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://94.177.150.45:9700/play/a01u/index.m3u8
-#EXTINF:-1,Orizont TV
-http://94.177.150.45:9700/play/a02f/index.m3u8
-#EXTINF:-1,Outdoor Channel
-http://94.177.150.45:9700/play/a01h/index.m3u8
-#EXTINF:-1,PRO 2
-http://94.177.150.45:9700/play/a00q/index.m3u8
-#EXTINF:-1,PRO 2 HD
-http://94.177.150.45:9700/play/a03l/index.m3u8
-#EXTINF:-1,PRO CINEMA
-http://94.177.150.45:9700/play/a00t/index.m3u8
-#EXTINF:-1,PRO GOLD
-http://94.177.150.45:9700/play/a00s/index.m3u8
-#EXTINF:-1,PRO TV
-http://94.177.150.45:9700/play/a002/index.m3u8
-#EXTINF:-1,PRO TV HD
-http://94.177.150.45:9700/play/a02s/index.m3u8
-#EXTINF:-1,PRO X
-http://94.177.150.45:9700/play/a02h/index.m3u8
-#EXTINF:-1,PRO X HD
-http://94.177.150.45:9700/play/a03g/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://94.177.150.45:9700/play/a00w/index.m3u8
-#EXTINF:-1,Prima TV
-http://94.177.150.45:9700/play/a005/index.m3u8
-#EXTINF:-1,N/A
-http://94.177.150.45:9700/play/a03u/index.m3u8
-#EXTINF:-1,Realitatea TV
-http://94.177.150.45:9700/play/a00h/index.m3u8
-#EXTINF:-1,Rock TV
-http://94.177.150.45:9700/play/a023/index.m3u8
-#EXTINF:-1,Romania TV
-http://94.177.150.45:9700/play/a00i/index.m3u8
-#EXTINF:-1,Speranta TV
-http://94.177.150.45:9700/play/a02d/index.m3u8
-#EXTINF:-1,TLC
-http://94.177.150.45:9700/play/a016/index.m3u8
-#EXTINF:-1,TNT
-http://94.177.150.45:9700/play/a010/index.m3u8
-#EXTINF:-1,TNT HD
-http://94.177.150.45:9700/play/a037/index.m3u8
-#EXTINF:-1,TV SudEst
-http://94.177.150.45:9700/play/a02a/index.m3u8
-#EXTINF:-1,TV1000
-http://94.177.150.45:9700/play/a00v/index.m3u8
-#EXTINF:-1,TV5MONDE Europe
-http://94.177.150.45:9700/play/a00m/index.m3u8
-#EXTINF:-1,TVH
-http://94.177.150.45:9700/play/a00d/index.m3u8
-#EXTINF:-1,TVR 1
-http://94.177.150.45:9700/play/a006/index.m3u8
-#EXTINF:-1,TVR 2
-http://94.177.150.45:9700/play/a008/index.m3u8
-#EXTINF:-1,TVR 3
-http://94.177.150.45:9700/play/a00e/index.m3u8
-#EXTINF:-1,TVR HD
-http://94.177.150.45:9700/play/a02u/index.m3u8
-#EXTINF:-1,Taraf TV
-http://94.177.150.45:9700/play/a027/index.m3u8
-#EXTINF:-1,Telestar
-http://94.177.150.45:9700/play/a029/index.m3u8
-#EXTINF:-1,The Fishing and Hunting Channel
-http://94.177.150.45:9700/play/a02k/index.m3u8
-#EXTINF:-1,The Fishing and Hunting Channel HD
-http://94.177.150.45:9700/play/a03s/index.m3u8
-#EXTINF:-1,Travel Channel
-http://94.177.150.45:9700/play/a017/index.m3u8
-#EXTINF:-1,Travel Channel HD
-http://94.177.150.45:9700/play/a038/index.m3u8
-#EXTINF:-1,Travel Mix
-http://94.177.150.45:9700/play/a015/index.m3u8
-#EXTINF:-1,Trinitas TV
-http://94.177.150.45:9700/play/a02b/index.m3u8
-#EXTINF:-1,U TV
-http://94.177.150.45:9700/play/a021/index.m3u8
+http://134.255.54.217:9000/stream/channelid/465741374
+#EXTINF:-1,Gospel Channel Europe
+http://134.255.54.217:9000/stream/channelid/1703771294
+#EXTINF:-1,Paramount Channel Hungary
+http://134.255.54.217:9000/stream/channelid/742328996
+#EXTINF:-1,Comedy Central Family Hungary
+http://134.255.54.217:9000/stream/channelid/1539946313
+#EXTINF:-1,Comedy Central Hungary
+http://134.255.54.217:9000/stream/channelid/1187760166
+#EXTINF:-1,MTV Europe
+http://134.255.54.217:9000/stream/channelid/646216084
 #EXTINF:-1,VH1
-http://94.177.150.45:9700/play/a01y/index.m3u8
+http://134.255.54.217:9000/stream/channelid/1318929162
+#EXTINF:-1,MTV Hits
+http://134.255.54.217:9000/stream/channelid/1203230812
+#EXTINF:-1,MTV Dance
+http://134.255.54.217:9000/stream/channelid/158694144
+#EXTINF:-1,VH1 Classic
+http://134.255.54.217:9000/stream/channelid/103443033
+#EXTINF:-1,MTV Rocks
+http://134.255.54.217:9000/stream/channelid/1214600531
+#EXTINF:-1,CGTN
+http://134.255.54.217:9000/stream/channelid/560153270
+#EXTINF:-1,LifeStyleTV
+http://134.255.54.217:9000/stream/channelid/85846825
+#EXTINF:-1,AMC
+http://134.255.54.217:9000/stream/channelid/1122822897
+#EXTINF:-1,Scandinavian Satellite Radio
+http://134.255.54.217:9000/stream/channelid/1404205363
+#EXTINF:-1,TVR 1
+http://134.255.54.217:9000/stream/channelid/1900284257
+#EXTINF:-1,Nickelodeon Europe
+http://134.255.54.217:9000/stream/channelid/1116648389
+#EXTINF:-1,H!T Music RO
+http://134.255.54.217:9000/stream/channelid/1028852990
+#EXTINF:-1,TVPaprika
+http://134.255.54.217:9000/stream/channelid/1080328239
+#EXTINF:-1,TVPaprika
+http://134.255.54.217:9000/stream/channelid/1697909620
+#EXTINF:-1,Fishing and Hunting
+http://134.255.54.217:9000/stream/channelid/39271698
+#EXTINF:-1,Prima
+http://134.255.54.217:9000/stream/channelid/569370275
 #EXTINF:-1, Explore
-http://94.177.150.45:9700/play/a01k/index.m3u8
-#EXTINF:-1, Explore HD
-http://94.177.150.45:9700/play/a03q/index.m3u8
-#EXTINF:-1, History
-http://94.177.150.45:9700/play/a01m/index.m3u8
-#EXTINF:-1, Nature
-http://94.177.150.45:9700/play/a01c/index.m3u8
-#EXTINF:-1, Nature HD
-http://94.177.150.45:9700/play/a03t/index.m3u8
-#EXTINF:-1, Nature HD
-http://94.177.150.45:9700/play/a03b/index.m3u8
-#EXTINF:-1,ZU TV
-http://94.177.150.45:9700/play/a020/index.m3u8
-#EXTINF:-1,comedyEst HD
-http://94.177.150.45:9700/play/a03k/index.m3u8
+http://134.255.54.217:9000/stream/channelid/1796851893
+#EXTINF:-1,Mezzo
+http://134.255.54.217:9000/stream/channelid/775054597
+#EXTINF:-1,DIGI Sport 4
+http://134.255.54.217:9000/stream/channelid/853338117
+#EXTINF:-1,DIGI Sport 2
+http://134.255.54.217:9000/stream/channelid/1202007586
+#EXTINF:-1,Filmbox
+http://134.255.54.217:9000/stream/channelid/1151124841
+#EXTINF:-1,Jednotka HD
+http://134.255.54.217:9000/stream/channelid/1214261186
+#EXTINF:-1,U tv
+http://134.255.54.217:9000/stream/channelid/1706120451
+#EXTINF:-1,Dvojka HD
+http://134.255.54.217:9000/stream/channelid/1816217669
+#EXTINF:-1,FilmBox Premium
+http://134.255.54.217:9000/stream/channelid/98598201
+#EXTINF:-1,DIGI Sport 1
+http://134.255.54.217:9000/stream/channelid/68060822
+#EXTINF:-1,DIGI Sport 1
+http://134.255.54.217:9000/stream/channelid/867123549
+#EXTINF:-1,Eurosport Romania
+http://134.255.54.217:9000/stream/channelid/644989666
+#EXTINF:-1,Markiza HD
+http://134.255.54.217:9000/stream/channelid/111086179
+#EXTINF:-1,DIGI 24
+http://134.255.54.217:9000/stream/channelid/961012149
+#EXTINF:-1,DIGI 24
+http://134.255.54.217:9000/stream/channelid/1845361170
+#EXTINF:-1,Nat Geo Wild (ROU)
+http://134.255.54.217:9000/stream/channelid/1037551789
+#EXTINF:-1,Nat Geo Wild (ROU)
+http://134.255.54.217:9000/stream/channelid/2145696379
+#EXTINF:-1,JOJ HD
+http://134.255.54.217:9000/stream/channelid/850132277
+#EXTINF:-1,Eurosport Int
+http://134.255.54.217:9000/stream/channelid/809634950
+#EXTINF:-1,Plus HD
+http://134.255.54.217:9000/stream/channelid/1060100677
+#EXTINF:-1,Publika TV
+http://134.255.54.217:9000/stream/channelid/1873909336
+#EXTINF:-1,Dajto HD
+http://134.255.54.217:9000/stream/channelid/1971057957
+#EXTINF:-1,Disney Channel
+http://134.255.54.217:9000/stream/channelid/1121747678
+#EXTINF:-1,Minimax
+http://134.255.54.217:9000/stream/channelid/949739605
+#EXTINF:-1,Prima HD
+http://134.255.54.217:9000/stream/channelid/686727027
+#EXTINF:-1,Bollywood TV
+http://134.255.54.217:9000/stream/channelid/2057060726
+#EXTINF:-1,KISS TV
+http://134.255.54.217:9000/stream/channelid/1236437496
+#EXTINF:-1,CT 1 HD
+http://134.255.54.217:9000/stream/channelid/1312344126
+#EXTINF:-1,HBO 3 RO
+http://134.255.54.217:9000/stream/channelid/1816548498
+#EXTINF:-1,National FM
+http://134.255.54.217:9000/stream/channelid/331250950
+#EXTINF:-1,DIGI World
+http://134.255.54.217:9000/stream/channelid/2022327346
+#EXTINF:-1,Senzi
+http://134.255.54.217:9000/stream/channelid/1123781892
+#EXTINF:-1,National Geographic RO
+http://134.255.54.217:9000/stream/channelid/1849937330
+#EXTINF:-1,Slagr TV
+http://134.255.54.217:9000/stream/channelid/517612684
+#EXTINF:-1,Film Cafe
+http://134.255.54.217:9000/stream/channelid/672128253
+#EXTINF:-1,Nova HD
+http://134.255.54.217:9000/stream/channelid/1410119851
+#EXTINF:-1,Music Channel
+http://134.255.54.217:9000/stream/channelid/1800576195
+#EXTINF:-1,Pax TV
+http://134.255.54.217:9000/stream/channelid/1346261187
+#EXTINF:-1,DIGI Life HU
+http://134.255.54.217:9000/stream/channelid/1260425994
+#EXTINF:-1,Mozi+
+http://134.255.54.217:9000/stream/channelid/1158920391
+#EXTINF:-1,DIGI Sport 3 HU
+http://134.255.54.217:9000/stream/channelid/1544885166
+#EXTINF:-1,Mooz Dance
+http://134.255.54.217:9000/stream/channelid/1451715112
+#EXTINF:-1,Mooz Dance
+http://134.255.54.217:9000/stream/channelid/1796450377
+#EXTINF:-1,SuperOne
+http://134.255.54.217:9000/stream/channelid/36642791
+#EXTINF:-1,HISTORY
+http://134.255.54.217:9000/stream/channelid/282322139
+#EXTINF:-1,DIGI Sport 3
+http://134.255.54.217:9000/stream/channelid/685734815
+#EXTINF:-1,Publika TV
+http://134.255.54.217:9000/stream/channelid/669980055
+#EXTINF:-1,Credo TV
+http://134.255.54.217:9000/stream/channelid/168392602
+#EXTINF:-1,Radio Chisinau
+http://134.255.54.217:9000/stream/channelid/736243216
+#EXTINF:-1,Film Now HU
+http://134.255.54.217:9000/stream/channelid/1182672484
+#EXTINF:-1,DIGI World HU
+http://134.255.54.217:9000/stream/channelid/1916122903
+#EXTINF:-1,Comedy Central
+http://134.255.54.217:9000/stream/channelid/106052132
+#EXTINF:-1,PRO CINEMA
+http://134.255.54.217:9000/stream/channelid/1160752309
+#EXTINF:-1,ProCinema
+http://134.255.54.217:9000/stream/channelid/636906233
+#EXTINF:-1,DIGI Sport 1 HU
+http://134.255.54.217:9000/stream/channelid/520890537
+#EXTINF:-1,Hir TV
+http://134.255.54.217:9000/stream/channelid/95149941
+#EXTINF:-1,Cartoon
+http://134.255.54.217:9000/stream/channelid/1976245134
+#EXTINF:-1,Super TV2
+http://134.255.54.217:9000/stream/channelid/519760695
+#EXTINF:-1,Minimax
+http://134.255.54.217:9000/stream/channelid/648293476
+#EXTINF:-1,STORY4
+http://134.255.54.217:9000/stream/channelid/1442004683
+#EXTINF:-1,Radio Norge
+http://134.255.54.217:9000/stream/channelid/1606566915
+#EXTINF:-1,Cool TV
+http://134.255.54.217:9000/stream/channelid/573175424
+#EXTINF:-1,M1
+http://134.255.54.217:9000/stream/channelid/1883913478
+#EXTINF:-1,TV 1000
+http://134.255.54.217:9000/stream/channelid/405796453
+#EXTINF:-1,BEST FM
+http://134.255.54.217:9000/stream/channelid/2067903736
+#EXTINF:-1,EXPRES Vychod
+http://134.255.54.217:9000/stream/channelid/243478383
+#EXTINF:-1,EXPRES Bratislava
+http://134.255.54.217:9000/stream/channelid/1904090847
+#EXTINF:-1,EXPRES mp2
+http://134.255.54.217:9000/stream/channelid/2103302860
+#EXTINF:-1,EXPRES Zilina
+http://134.255.54.217:9000/stream/channelid/890077625
+#EXTINF:-1,EXPRES Zapad
+http://134.255.54.217:9000/stream/channelid/1962935537
+#EXTINF:-1,EXPRES Stred
+http://134.255.54.217:9000/stream/channelid/888677280
+#EXTINF:-1,Europe 2
+http://134.255.54.217:9000/stream/channelid/570640107
+#EXTINF:-1,Digi Sport 2 HD
+http://134.255.54.217:9000/stream/channelid/1582221191
+#EXTINF:-1,TV4
+http://134.255.54.217:9000/stream/channelid/60456195
+#EXTINF:-1,RTL II
+http://134.255.54.217:9000/stream/channelid/526204135
+#EXTINF:-1,Visjon Norge HD
+http://134.255.54.217:9000/stream/channelid/1197050680
+#EXTINF:-1,CT 2 HD
+http://134.255.54.217:9000/stream/channelid/1402484116
+#EXTINF:-1,Eurosport 1 HD
+http://134.255.54.217:9000/stream/channelid/841064999
+#EXTINF:-1,Eurosport 2 HD
+http://134.255.54.217:9000/stream/channelid/647983803
+#EXTINF:-1,NGC HD
+http://134.255.54.217:9000/stream/channelid/2094663183
+#EXTINF:-1,FilmBox Premium HD
+http://134.255.54.217:9000/stream/channelid/1371298851
+#EXTINF:-1,TV Lux
+http://134.255.54.217:9000/stream/channelid/196156855
+#EXTINF:-1,FightBox
+http://134.255.54.217:9000/stream/channelid/459505079
+#EXTINF:-1,DocuBox
+http://134.255.54.217:9000/stream/channelid/855456228
+#EXTINF:-1,Eroxxx
+http://134.255.54.217:9000/stream/channelid/1494226215
+#EXTINF:-1,CGTN Documentary
+http://134.255.54.217:9000/stream/channelid/1693550915
+#EXTINF:-1,ATV Spirit
+http://134.255.54.217:9000/stream/channelid/493338163
+#EXTINF:-1,Digi FM
+http://134.255.54.217:9000/stream/channelid/2088615727
+#EXTINF:-1,Radio Vibe
+http://134.255.54.217:9000/stream/channelid/253170145
+#EXTINF:-1,Pro FM
+http://134.255.54.217:9000/stream/channelid/2004856483
+#EXTINF:-1,Sport Total
+http://134.255.54.217:9000/stream/channelid/265666401
+#EXTINF:-1,Mozi+ HD
+http://134.255.54.217:9000/stream/channelid/1725165444
+#EXTINF:-1,Travel Channel
+http://134.255.54.217:9000/stream/channelid/588486425
+#EXTINF:-1,Spektrum
+http://134.255.54.217:9000/stream/channelid/1147752509
+#EXTINF:-1,Radio Maria HU
+http://134.255.54.217:9000/stream/channelid/92915722
+#EXTINF:-1,OzoneNetwork
+http://134.255.54.217:9000/stream/channelid/1091470303
+#EXTINF:-1,M2
+http://134.255.54.217:9000/stream/channelid/360611248
+#EXTINF:-1,SuperTV2 HD
+http://134.255.54.217:9000/stream/channelid/1934806236
+#EXTINF:-1,Epic Drama HD
+http://134.255.54.217:9000/stream/channelid/1952807869
+#EXTINF:-1,Galaxy4
+http://134.255.54.217:9000/stream/channelid/1093857042
+#EXTINF:-1,RUV Ras 1
+http://134.255.54.217:9000/stream/channelid/1264767115
+#EXTINF:-1,RUV Ras 2
+http://134.255.54.217:9000/stream/channelid/1413504597
+#EXTINF:-1,Eurosport 2 HU
+http://134.255.54.217:9000/stream/channelid/1101022599
+#EXTINF:-1,National Geographic CE
+http://134.255.54.217:9000/stream/channelid/1786089329
+#EXTINF:-1,Romania TV
+http://134.255.54.217:9000/stream/channelid/295781610
+#EXTINF:-1,PRO TV
+http://134.255.54.217:9000/stream/channelid/600152675
+#EXTINF:-1,AlJazeera English
+http://134.255.54.217:9000/stream/channelid/724166283
+#EXTINF:-1,Spektrum Home
+http://134.255.54.217:9000/stream/channelid/1584192872
+#EXTINF:-1,Kanal D
+http://134.255.54.217:9000/stream/channelid/1528798551
+#EXTINF:-1,Diva
+http://134.255.54.217:9000/stream/channelid/654929638
+#EXTINF:-1,DaVinci Learning
+http://134.255.54.217:9000/stream/channelid/602578198
+#EXTINF:-1,DaVinci Learning
+http://134.255.54.217:9000/stream/channelid/1610541945
+#EXTINF:-1,PRO TV INTERNATIONAL
+http://134.255.54.217:9000/stream/channelid/941114932
+#EXTINF:-1,ProTV International
+http://134.255.54.217:9000/stream/channelid/520472551
+#EXTINF:-1,Nick Jr Czech
+http://134.255.54.217:9000/stream/channelid/1246574435
+#EXTINF:-1,Nova Action
+http://134.255.54.217:9000/stream/channelid/1493651615
+#EXTINF:-1,Discovery Science
+http://134.255.54.217:9000/stream/channelid/774253376
+#EXTINF:-1,Nova Action HD
+http://134.255.54.217:9000/stream/channelid/972375131
+#EXTINF:-1,Mooz Dance HD
+http://134.255.54.217:9000/stream/channelid/1622701582
