@@ -1,77 +1,77 @@
-
-
 #EXTM3U
+#EXTINF:-1,RO:  Antena 1 
+http://iptvlive.stream:80/p/487192/c/18/u/259682/UMZm7v9ZZna
 #EXTINF:-1,RO:  Antena 1 Hd
-http://195.181.160.180:8000/live/9ItcASrYM1/SeF
-#EXTINF:-1,RO:  Pro tv
-http://2.telek.me:8080/2330/6548/b2cd00fa66eba6139f
-#EXTINF:-1,RO: Filmnow 
-http://pan.darksite.tv:8000/7pnTOex5K0/ruoNyIkF3U/14762
-#EXTINF:-1,RO: 
-http://turkiptv.xyz:8080/live/user24/12345/100447.ts
-#EXTINF:-1,RO: AMC Romania
-http://turkiptv.xyz:8080/live/user24/12345/100462.ts
-#EXTINF:-1,RO: Animal Planet
-http://turkiptv.xyz:8080/live/user24/12345/100512.ts
-#EXTINF:-1,RO: Antena 1
-http://turkiptv.xyz:8080/live/user24/12345/100451.ts
-#EXTINF:-1,RO: Antena 1 FHD
+http://iptvlive.stream:80/p/487192/c/104/u/259682/UMZm7v9ZZnafs9QLKHEYMG6sE7vmb0
+#EXTINF:-1,RO: Pro TV HD
+http://iptvlive.stream:80/p/487192/c/111/u/259682/UMZm7v9ZZnafs9QLKHEYMG6
+#EXTINF:-1,Pro Tv
+http://iptvlive.stream:80/p/487192/c/23/u/259682/U
+#EXTINF:-1,RO:kanal D
+http://iptvlive.stream:80/p/487192/c/13/u/259682/UMZm7v9Z
+#EXTINF:-1,RO: Nik junior 
+http://iptvlive.stream:80/p/487192/c/60/u/259682/UMZm7
+#EXTINF:-1,RO: Film Cafe
+http://iptvlive.stream:80/p/487192/c/98/u/259682/UM
+#EXTINF:-1,RO: B1 Tv
+http:/
 http://turkiptv.xyz:8080/live/user24/12345/100450.ts
-#EXTINF:-1,RO: ANTENA 3
+#EXTINF:-1,RO:Nasul Tv
+
 http://turkiptv.xyz:8080/live/user24/12345/100445.ts
-#EXTINF:-1,RO: Antena 3 FHD
-http://turkiptv.xyz:8080/live/user24/12345/100444.ts
-#EXTINF:-1,RO: Antena Stars
-http://turkiptv.xyz:8080/live/user24/12345/100446.ts
-#EXTINF:-1,RO: ANX FHD
-http://turkiptv.xyz:8080/live/user24/12345/100548.ts
-#EXTINF:-1,RO: Arcadia World FHD
-http://turkiptv.xyz:8080/live/user24/12345/100549.ts
-#EXTINF:-1,RO: AXN Black
-http://turkiptv.xyz:8080/live/user24/12345/100513.ts
-#EXTINF:-1,RO: AXN HD
-http://turkiptv.xyz:8080/live/user24/12345/100463.ts
-#EXTINF:-1,RO: AXN Spin
-http://turkiptv.xyz:8080/live/user24/12345/100550.ts
-#EXTINF:-1,RO: AXN WHITE
-http://turkiptv.xyz:8080/live/user24/12345/100464.ts
-#EXTINF:-1,RO: B1
-http://turkiptv.xyz:8080/live/user24/12345/100515.ts
-#EXTINF:-1,RO: BIT TV
-http://turkiptv.xyz:8080/live/user24/12345/100551.ts
-#EXTINF:-1,RO: Bollywood Clasic
-http://turkiptv.xyz:8080/live/user24/12345/100552.ts
-#EXTINF:-1,RO: Bollywood HD
-http://turkiptv.xyz:8080/live/user24/12345/100553.ts
-#EXTINF:-1,RO: Boomerang
-http://turkiptv.xyz:8080/live/user24/12345/100520.ts
-#EXTINF:-1,RO: Bucovina TV
-http://turkiptv.xyz:8080/live/user24/12345/100554.ts
-#EXTINF:-1,RO: Bucuresti TV FHD
-http://turkiptv.xyz:8080/live/user24/12345/100555.ts
-#EXTINF:-1,RO: Canal 33
-http://turkiptv.xyz:8080/live/user24/12345/100556.ts
-#EXTINF:-1,RO: CBS Reality
-http://turkiptv.xyz:8080/live/user24/12345/100557.ts
-#EXTINF:-1,RO: Cinemax 2
-http://turkiptv.xyz:8080/live/user24/12345/100507.ts
-#EXTINF:-1,RO: Cinemax HD
-http://turkiptv.xyz:8080/live/user24/12345/100506.ts
-#EXTINF:-1,RO: Cinethronix
-http://turkiptv.xyz:8080/live/user24/12345/100558.ts
-#EXTINF:-1,RO: Comedy Central
-http://turkiptv.xyz:8080/live/user24/12345/100516.ts
-#EXTINF:-1,RO: Credo Tv
-http://turkiptv.xyz:8080/live/user24/12345/100559.ts
-#EXTINF:-1,RO: Crime Investigation
-http://turkiptv.xyz:8080/live/user24/12345/100560.ts
-#EXTINF:-1,RO: Cromtel TV HD
-http://turkiptv.xyz:8080/live/user24/12345/100561.ts
-#EXTINF:-1,RO: Cromtel TV Radauti
-http://turkiptv.xyz:8080/live/user24/12345/100562.ts
-#EXTINF:-1,RO: Da Vinci Learning
-http://turkiptv.xyz:8080/live/user24/12345/100476.ts
-#EXTINF:-1,RO: Diaspora TV FHD
+#EXTINF:-1,RO: Axn 
+http://iptvlive.stream:80/p/487192/c/38/u/259682/UMZm7v9ZZna
+#EXTINF:-1,RO: Axn Black
+http://iptvlive.stream:80/p/487192/c/41/u/259682/UMZm7v
+#EXTINF:-1,RO: Axn White
+http://iptvlive.stream:80/p/487192/c/117/u/259682/
+#EXTINF:-1,RO: Pro Gold
+http://iptvlive.stream:80/p/487192/c/35/u/259682/UMZm7v9ZZnaf
+#EXTINF:-1,RO: Prima Tv
+http://iptvlive.stream:80/p/487192/c/55/u/259682/UMZm
+#EXTINF:-1,RO: Diva
+http://iptvlive.stream:80/p/487192/c/65/u/259682/UMZm7
+#EXTINF:-1,RO: Comedycentral
+http://iptvlive.stream:80/p/487192/c/81/u/25968
+#EXTINF:-1,RO: Antena stars
+http://iptvlive.stream:80/p/487192/c/96/u/259682/
+#EXTINF:-1,RO: Antena 3
+http://iptvlive.stream:80/p/487192/c/8/u/25968
+#EXTINF:-1,RO: Fishing & Hunting 
+http://iptvlive.stream:80/p/487192/c/11
+#EXTINF:-1,RO: Tnt
+http://iptvlive.stream:80/p/487192/c/116/u/259682/UMZm7v9ZZnafs9QL
+#EXTINF:-1,RO: TVR 1
+http://iptvlive.stream:80/p/487192/c/3/u/259682/UMZm7v9ZZna
+#EXTINF:-1,RO: TVR 2
+http://iptvlive.stream:80/p/487192/c/1/u/259682/UMZm7v9Z
+#EXTINF:-1,RO: Digisport1
+http://iptvlive.stream:80/p/487192/c/88/u/259682/UMZm
+#EXTINF:-1,RO: Digisport1 HD
+http://iptvlive.stream:80/p/487192/c/82/u/259682/UMZm7v
+#EXTINF:-1,RO: Digi Sport 2
+http://iptvlive.stream:80/p/487192/c/53/u/259682
+#EXTINF:-1,RO: Digi Sport 3
+http://iptvlive.stream:80/p/487192/c/26/u/259682/UM
+#EXTINF:-1,RO: Digi Sport 4
+http://iptvlive.stream:80/p/487192/c/16/u/259682/
+#EXTINF:-1,RO: Digianimalworld
+http://iptvlive.stream:80/p/487192/c/5/u/259682
+#EXTINF:-1,RO: Digi live 
+http://iptvlive.stream:80/p/487192/c/100/u/259682/UMZ
+#EXTINF:-1,RO: Digi world
+http://iptvlive.stream:80/p/487192/c/113/u/259682/UMZm7v
+#EXTINF:-1,RO: Look Sport
+http://iptvlive.stream:80/p/487192/c/31/u/259682/U
+#EXTINF:-1,RO:Cartoon Network 
+http://iptvlive.stream:80/p/487192/c/48/u/259682/UMZm7v9
+#EXTINF:-1,RO: Disney Chanel
+http://iptvlive.stream:80/p/487192/c/22/u/259682/UMZ
+#EXTINF:-1,RO: Disney Junior 
+http://iptvlive.stream:80/p/487192/c/109/u/259682/UMZm7v
+#EXTINF:-1,RO:Minimax 
+http://iptvlive.stream:80/p/487192/c/107/u/259682/UMZm7v9ZZnaf
+#EXTINF:-1,RO:
 http://turkiptv.xyz:8080/live/user24/12345/100563.ts
 #EXTINF:-1,RO: Digi 24
 http://turkiptv.xyz:8080/live/user24/12345/100473.ts
@@ -197,6 +197,3 @@ http://turkiptv.xyz:8080/live/user24/12345/100449.ts
 http://turkiptv.xyz:8080/live/user24/12345/100540.ts
 #EXTINF:-1,RO: Look Plus
 http://turkiptv.xyz:8080/live/user24/12345/100485.ts
-#EXTINF:-1,RO: Look Tv
-http://turkiptv.xyz:8080/live/user24/12345/100487.ts
-#E
