@@ -17,10 +17,28 @@ http://185.162.141.69:20082/acasa
 http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
 #EXTINF:-1, KANAL D
 http://185.162.141.69:20082/kanald
+#EXTINF:-1 Kanal D
+http://iptvlive.stream:80/p/894213/c/15/u/259682/tfbxbkDVAxAvW73vWt8XX5Z4yvb06u.m3u8
+#EXTINF:-1 FILM NOW
+http://iptvlive.stream:80/p/894213/c/9/u/259682/tfbxbkDVAxAvW73vWt8XX5Z4yvb06u.m3u8
 #EXTINF:-1, Axn hd
 http://82.76.252.30/digiedge2/axnehq/chunklist_w645711284.m3u8?is=44&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 Axn Black
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/46566
+#EXTINF:- Axn Withe 
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/46567
+#EXTINF:-1 Hbo
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/46582
+#EXTINF:-1 HBO 2
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/46583
+#EXTINF :-1 HBO 3
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/46583
+#EXTINF:-1 Diva
+http://iptvlive.stream:80/p/894213/c/15/u/259682/tfbxbkDVAxAvW73vWt8XX5Z4yvb06u.m3u8
 #EXTINF:-1, Prima tv
 http://5.255.90.252:5004/play/a081
+#EXTINF :-1 Prima tv
+http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/64087
 #EXTINF:-1, B1 tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1, National tv
@@ -55,6 +73,12 @@ http://89.38.8.130:39437
 http://89.38.8.130:39435
 #EXTINF :-1, Digi 24 hd
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 Digi Sport 1
+http://80.86.107.128:5024
+#EXTINF:-1 Digi Sport 2
+http://80.86.107.128:8036
+#EXTINF:-1 Digi Sport 3
+http://80.86.107.128:8037
 #EXTINF:-1, Look sport
 http://5.255.90.252:5004/play/a074
 #EXTINF:-1, Telekom 1
