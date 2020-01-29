@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF :-1, liviu 
-http://80.86.107.128:1004
 #EXTINF:-1, Pro tv
 http://89.38.8.131:39532
+#EXTINF:-1 Pro tv 
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:-1, Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:-1 Antena 1 
-http://iptvlive.stream:80/p/487192/c/104/u/259682/UMZm7v9ZZnafs9QLKHEYMG6sE7vmb0
+#EXTINF:-1, Antena 1
+http://109.233.192.88:8002/playlist.m3u8
+#EXTINF:-1 Antena 1
+http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/982.ts
 #EXTINF:-1, Pro Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF :-1, Pro x
@@ -43,6 +45,8 @@ http://5.255.90.252:5004/play/a081
 http://303tv.net:8080/NnffggJmx8/1o48f3iWgu/64087
 #EXTINF:-1, B1 tv
 http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1, B1 tv
+http://stream.adunity.com/b1/b1_640-.m3u8
 #EXTINF:-1, National tv
 http://5.255.90.252:5004/play/a072
 #EXTINF:-1, Film Cafe 
@@ -117,8 +121,12 @@ http://5.255.90.252:5004/play/a06b
 http://5.255.90.252:5004/play/a083
 #EXTINF:-1, Minimax
 http://5.255.90.252:5004/play/a06a
+#EXTINF:-, Super tv
+http://91.235.165.77:8112
 #EXTINF:-1, Utv
 http://5.255.90.252:5004/play/a084
+#EXTINF:-1, Traditional TV 😁
+http://83.103.149.75:8080
 #EXTINF:-1, Tezaur tv
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1, Noroc tv
@@ -192,10 +200,3 @@ http://94.177.136.29:7478/play/a03e
 http://94.177.136.29:7478/play/a03d
 #EXTINF:-1,TeleM Iasi
 http://94.177.136.29:7478/play/a03c
-
-
-
-
-
-
-
